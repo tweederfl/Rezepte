@@ -1,0 +1,8 @@
+rezept_id;rezeptname;portionen;originalportionen;kategorie;typ;position;menge;einheit;zutat;anweisung;notiz;quelle
+ostercreme;Ostercreme;;;Desserts;Zutat;1;200;g;Frischkäse natur;;"Original 200 g; handschriftlich 100 g ergänzt";Handschriftliche dänische Rezeptvorlage (Foto)
+ostercreme;Ostercreme;;;Desserts;Zutat;2;120;g;Butter;;"Dänisch Smør; handschriftlich 60 g ergänzt";Handschriftliche dänische Rezeptvorlage (Foto)
+ostercreme;Ostercreme;;;Desserts;Zutat;3;180;g;Puderzucker;;Handschriftlich 90 g ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+ostercreme;Ostercreme;;;Desserts;Zutat;4;2;TL;Vanillezucker;;;Handschriftliche dänische Rezeptvorlage (Foto)
+ostercreme;Ostercreme;;;Desserts;Info;1;;;;;Keine Zubereitungsschritte angegeben.;Handschriftliche dänische Rezeptvorlage (Foto)
+ostercreme;Ostercreme;;;Desserts;Info;2;;;;;Handschriftlich halbierte Mengen sind nicht eindeutig als gültige Version bestätigt.;Handschriftliche dänische Rezeptvorlage (Foto)
+ostercreme;Ostercreme;;;Desserts;Info;3;;;;;"Originalportionen unbekannt; Zutaten sind nicht auf vier Portionen umgerechnet.";Handschriftliche dänische Rezeptvorlage (Foto)
