@@ -1,2 +1,7 @@
 rezept_id;rezeptname;kategorie;portionen;zubereitungszeit_min;quelle;dateipfad;erstellt_am;aktualisiert_am
 fuellung_putenbratwurst_apfel_cranberrys;Füllung mit Putenbratwurst, Apfel und Cranberrys;Beilagen;4;100;Allrecipes, Stacy M. Polcyn;rezepte/fuellung_putenbratwurst_apfel_cranberrys.csv;2026-11-15;2026-11-15
+pfeffernuesse;Pfeffernüsse;Kuchen und Gebäck;;;Handschriftliche Rezeptvorlage (Foto);rezepte/pfeffernuesse.csv;2026-11-15;2026-11-15
+pistazien_pesto;Pistazien-Pesto;Saucen und Dips;;;Screenshot mit Zutatenliste;rezepte/pistazien_pesto.csv;2026-11-15;2026-11-15
+ostercreme;Ostercreme;Desserts;;;Handschriftliche dänische Rezeptvorlage (Foto);rezepte/ostercreme.csv;2026-11-15;2026-11-15
+daenischer_karottenkuchen;Dänischer Karottenkuchen;Kuchen und Gebäck;;;Handschriftliche dänische Rezeptvorlage (Foto);rezepte/daenischer_karottenkuchen.csv;2026-11-15;2026-11-15
+mandelbutterkuchen;Mandelbutterkuchen;Kuchen und Gebäck;;;Handschriftliche Rezeptvorlage (Foto);rezepte/mandelbutterkuchen.csv;2026-11-15;2026-11-15
