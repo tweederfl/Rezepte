@@ -1,0 +1,13 @@
+rezept_id;rezeptname;portionen;originalportionen;kategorie;typ;position;menge;einheit;zutat;anweisung;notiz;quelle
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;1;300;g;Brauner Zucker;;Handschriftlich 150 g ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;2;200;ml;Öl;;"Original 2 dl; handschriftlich 1 dl ergänzt; Vorlage notiert 1 dl = 100 g";Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;3;4;Stück;Eier;;Handschriftlich 2 ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;4;275;g;Weizenmehl;;Handschriftlich 135 g ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;5;1,5;TL;Backpulver;;Handschriftlich 0,5 TL ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;6;0,5;TL;Salz;;;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;7;1;TL;Natron;;Handschriftlich 0,5 TL ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;8;2;TL;Zimt gemahlen;;Handschriftlich 1 TL ergänzt;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Zutat;9;375;g;Karotten;;"Geschält gewogen; handschriftlich 190 g ergänzt";Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Info;1;;;;;Keine Zubereitungsschritte oder Backdaten auf dem vorliegenden Foto angegeben.;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Info;2;;;;;Handschriftliche Mengenänderungen nicht als maßgebliche Version bestätigt.;Handschriftliche dänische Rezeptvorlage (Foto)
+daenischer_karottenkuchen;Dänischer Karottenkuchen;;;Kuchen und Gebäck;Info;3;;;;;"Originalportionen unbekannt; Zutaten sind nicht auf vier Portionen umgerechnet.";Handschriftliche dänische Rezeptvorlage (Foto)
