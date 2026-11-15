@@ -1,0 +1,12 @@
+rezept_id;rezeptname;portionen;originalportionen;kategorie;typ;position;menge;einheit;zutat;anweisung;notiz;quelle
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;1;1;Stück;Gurke;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;2;3;Scheiben;Zitrone;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;3;1;Prise;Chiliflocken;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;4;1;TL;Zucker;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;5;0,5;TL;Salz;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;6;1;TL;Essig;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Zutat;7;200;ml;Sprite;;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Schritt;1;;;;Alle Zutaten vermengen.;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Schritt;2;;;;Eine Stunde im Kühlschrank ziehen lassen.;;"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Info;1;;;;;"Originalportionen unbekannt; keine Umrechnung auf 4 Personen.";"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
+gurkensalat_mit_sprite;Gurkensalat mit Sprite;;;Salate;Info;2;;;;;"Zubereitung aus früherer Transkription; Details des Originalfotos hier nicht erneut überprüfbar.";"Frühere Rezepttranskription aus Nutzerfoto (15.11.2026; genaue Originalquelle nicht angegeben)"
