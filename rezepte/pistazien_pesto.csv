@@ -1,0 +1,9 @@
+rezept_id;rezeptname;portionen;originalportionen;kategorie;typ;position;menge;einheit;zutat;anweisung;notiz;quelle
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Zutat;1;130;g;Pistazien;;Ohne Schale;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Zutat;2;;;Basilikum;;Ordentlich;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Zutat;3;;;Parmesan;;Ordentlich;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Zutat;4;;;Olivenöl;;Ein bisschen;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Zutat;5;;;Salz und Pfeffer;;Ohne Mengenangabe;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Zutat;6;1;Stück;Knoblauchzehe;;Klein;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Info;1;;;;;Keine Zubereitungsschritte im Original angegeben.;Screenshot mit Zutatenliste
+pistazien_pesto;Pistazien-Pesto;;;Saucen und Dips;Info;2;;;;;"Originalportionen unbekannt; Zutaten sind nicht auf vier Portionen umgerechnet.";Screenshot mit Zutatenliste
